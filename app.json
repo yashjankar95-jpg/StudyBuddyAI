@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Agon Preview",
-    "slug": "agon-preview",
+    "name": "StudyBuddyAI",
+    "slug": "StudyBuddyAI",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -39,16 +39,15 @@
     },
     "extra": {
       "eas": {
-        "projectId": "552f0665-e30d-4f11-9ea9-97bc22a22809"
+        "projectId": "16487a45-124b-4c92-8d06-baef59eac047"
       }
     },
     "updates": {
-      "url": "https://u.expo.dev/552f0665-e30d-4f11-9ea9-97bc22a22809"
+      "url": "https://expo.dev"
     },
     "runtimeVersion": {
       "policy": "appVersion"
     },
-    "owner": "arcadalabs",
     "platforms": [
       "ios",
       "android",
